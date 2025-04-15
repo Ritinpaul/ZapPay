@@ -64,6 +64,10 @@ The app includes a complete authentication flow with:
 3. The AuthContext provides auth state and user data to the app
 4. Balance updates and transactions are handled through context methods
 
+## Home Page
+![image](https://github.com/user-attachments/assets/95c02f64-26a0-4e34-b191-51bf2dba398a)
+
+
 ## Development
 
 ### Running the Project
@@ -74,8 +78,7 @@ npm install
 # Start development server
 npm run dev
 ```
-## Home Page
-![image](https://github.com/user-attachments/assets/ba1955b9-15d2-4231-9829-4b7334173558)
+
 
 
 ## Future Enhancements
