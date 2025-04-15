@@ -74,15 +74,14 @@ const LandingPage = () => {
             <div className="flex flex-col sm:flex-row justify-center gap-4">
               <Button 
                 size="lg" 
-                className="bg-white text-zapp-purple hover:bg-gray-100"
+                className="bg-white text-zapp-purple hover:bg-white/20 hover:text-white"
                 onClick={() => navigate('/register')}
               >
                 Create Account
               </Button>
-              <Button 
-                variant="outline" 
+              <Button  
                 size="lg" 
-                className="border-white text-white hover:bg-white/10"
+                className="bg-white text-zapp-purple hover:bg-white/20 hover:text-white"
                 onClick={() => navigate('/login')}
               >
                 Try Demo
@@ -219,15 +218,14 @@ const LandingPage = () => {
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Button 
               size="lg" 
-              className="bg-white text-zapp-purple hover:bg-gray-100"
+              className="bg-white text-zapp-purple hover:bg-white/20 hover:text-white"
               onClick={() => navigate('/register')}
             >
               Create Free Account
             </Button>
             <Button 
-              variant="outline" 
               size="lg" 
-              className="border-white text-white hover:bg-white/10"
+              className="bg-white text-zapp-purple hover:bg-white/20 hover:text-white"
               onClick={() => navigate('/login')}
             >
               Login to ZappPay
