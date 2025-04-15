@@ -74,6 +74,9 @@ npm install
 # Start development server
 npm run dev
 ```
+## Home Page
+![image](https://github.com/user-attachments/assets/ba1955b9-15d2-4231-9829-4b7334173558)
+
 
 ## Future Enhancements
 
@@ -84,6 +87,8 @@ To turn this into a production application, you would need to:
 3. Integrate with payment processors
 4. Add proper security measures
 5. Implement KYC (Know Your Customer) verification
+
+
 6. Set up secure user authentication
 
 ## License
